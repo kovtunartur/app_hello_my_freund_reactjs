@@ -1,3 +1,17 @@
+@import url(
+"https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+
+body {
+  background-color: #547953; 
+}
+
+h1 {
+  text-align: center;
+  font-family: "Roboto Mono", monospace;
+  font-size: 30pt;
+  color: #000000;
+}
+
 .App {
   text-align: center;
 }
